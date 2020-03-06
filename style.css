@@ -154,6 +154,7 @@ body {
 .project-image {
   margin: 0 0 24px;
   text-align: center;
+  border-rarius: 20%;
 }
 
 .projects p {
